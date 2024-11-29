@@ -1,0 +1,66 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-contracts-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-dateutil-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-groovysh-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-nio-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-groovydoc-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-ginq-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-macro-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-cli-picocli-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-templates-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-testng-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-json-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-test-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-swing-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-test-junit5-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-json-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-ginq-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-typecheckers-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-swing-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-macro-library-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-toml-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-datetime-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-macro-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-contracts-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-docgenerator-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-groovysh-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-nio-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-servlet-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-groovydoc-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-ant-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-testng-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-test-junit5-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-macro-library-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-sql-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-console-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-cli-picocli-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-xml-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-test-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-jmx-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-ant-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-datetime-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-docgenerator-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-sql-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-jmx-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-toml-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-console-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-cli-commons-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-servlet-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-xml-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-typecheckers-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-astbuilder-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-cli-commons-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-astbuilder-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-dateutil-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-jsr223-5.0.0-alpha-1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-templates-5.0.0-alpha-1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TicTacToe/lib/groovy-jsr223-5.0.0-alpha-1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
